@@ -74,3 +74,17 @@
 ## Ветвления
 
 Ветвления нужны ...
+
+    git branch
+
+    ЭТО ПРОГРАММА
+
+    git branch <branch name>
+
+    git branch -d <branch name>
+
+    git merge <branch name>
+
+    conflict
+
+    Создать как минимум 4 ветки и не забыть удалить их после слияния
