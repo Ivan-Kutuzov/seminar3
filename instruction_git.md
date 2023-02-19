@@ -77,9 +77,13 @@
 
     git branch
 
-    ЭТО ПРОГРАММА
+## Создание ветки
+
+Для того что бы создать ветку используйте команду
 
     git branch <branch name>
+
+где <branch name> это название ветки
 
     git branch -d <branch name>
 
