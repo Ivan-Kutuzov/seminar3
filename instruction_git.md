@@ -81,12 +81,18 @@
 
     git branch
 
+## Создание ветки
+
+Для того что бы создать ветку используйте команду
+
     git branch <branch_name>
 
-    git branch -d <branch_name>
+где <branch name> это название ветки
 
     git merge <branch_name>
 
-    conflict
+    git branch -d <branch name>
 
-    Создать как минимум 4 ветки и не забыть удалить их после слияния
+    git merge <branch name>
+
+
